@@ -1,6 +1,6 @@
 {
   "courses": {
-    "MCA": [
+    "mca": [
       {
         "date": "26-04-2023",
         "subject": "Competetive Programming",
@@ -50,7 +50,7 @@
         "time": "15:30-16:30"
       }
     ],
-    "MBA": [
+    "mba": [
       {
         "date": "26-04-2023",
         "subject": "Principals Of Management",
@@ -100,7 +100,7 @@
         "time": "16:30-17:30"
       }
     ],
-    "BCA": [
+    "bca": [
       {
         "date": "26-04-2023",
         "subject": "Introduction To Java",
@@ -150,7 +150,7 @@
         "time": "17:30-18:30"
       }
     ],
-    "BBA": [
+    "bba": [
       {
         "date": "26-04-2023",
         "subject": "Introduction To Management",
@@ -200,7 +200,7 @@
         "time": "17:30-18:30"
       }
     ],
-    "BTECH": [
+    "btech": [
       {
         "date": "26-04-2023",
         "subject": "Logic Gates",
@@ -250,7 +250,7 @@
         "time": "17:30-18:30"
       }
     ],
-    "MTECH": {},
-    "BTECH(INTEGRATED)": {}
+    "mtech": {},
+    "btech-int": {}
   }
 }

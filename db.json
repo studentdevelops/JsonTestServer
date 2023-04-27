@@ -2,255 +2,679 @@
   "courses": {
     "mca": [
       {
-        "date": "26-04-2023",
-        "subject": "Competetive Programming",
-        "day": "wednesday",
-        "slot": "1A",
-        "class code": "B",
-        "time": "12:30-13:30"
+        "Fall": [
+          {
+        "ClassID": "BL202231000820",
+        "Course Code": "MCA1002",
+        "Course Title": "Object Oriented Programming Using Java",
+        "Slot": "A11 + A12 + A13",
+        "Faculty Name": "ABC",
+        "Room Id": "S101",
+        "Seat": "SA",
+        "Date": "1-12-2022",
+        "Time": "9:15 AM - 12:15 AM"
       },
       {
-        "date": "26-04-2023",
-        "subject": "Competetive Programming",
-        "day": "wednesday",
-        "slot": "2A",
-        "class code": "A",
-        "time": "15:30-16:30"
+        "ClassID": "BL202231000821",
+        "Course Code": "MCA1002",
+        "Course Title": "Object Oriented Programming Using Java",
+        "Slot": "B11 + B12 + B13",
+        "Faculty Name": "ABC",
+        "Room Id": "S102",
+        "Seat": "SA",
+        "date": "1-12-2022",
+        "time": "9:15 AM - 12:15 AM"
       },
       {
-        "date": "27-04-2023",
-        "subject": "Data Structures Using Algorithms",
-        "day": "Thusday",
-        "slot": "1A",
-        "class code": "A",
-        "time": "12:30-13:30"
+        "ClassID": "BL202231000822",
+        "Course Code": "MCA1002",
+        "Course Title": "Object Oriented Programming Using Java",
+        "Slot": "C11 + C12 + C13",
+        "Faculty Name": "DEF",
+        "Room Id": "S103",
+        "Seat": "SA",
+        "date": "1-12-2022",
+        "time": "9:15 AM - 12:15 AM"
       },
       {
-        "date": "27-04-2023",
-        "subject": "Data Structures Using Algorithms",
-        "day": "Thusday",
-        "slot": "2A",
-        "class code": "B",
-        "time": "15:30-16:30"
+        "ClassID": "BL202231000690",
+        "Course Code": "MCA1003",
+        "Course Title": "Data Structures and Algorithm",
+        "Slot": "D11 + D12 + D13",
+        "Faculty Name": "XYZ",
+        "Room Id": "S201",
+        "Seat": "SB",
+        "date": "2-12-2022",
+        "time": "9:15 AM - 12:15 AM"
       },
       {
-        "date": "28-04-2023",
-        "subject": "Advance Java",
-        "day": "Friday",
-        "slot": "1A",
-        "class code": "A",
-        "time": "12:30-13:30"
+        "ClassID": "BL202231000691",
+        "Course Code": "MCA1003",
+        "Course Title": "Data Structures and Algorithm",
+        "Slot": "E11 + E12 + E13",
+        "Faculty Name": "XYZ",
+        "Room Id": "S202",
+        "Seat": "SB",
+        "date": "2-12-2022",
+        "time": "9:15 AM - 12:15 AM"
       },
       {
-        "date": "28-04-2023",
-        "subject": "Data Structures Using Algorithms",
-        "day": "Friday",
-        "slot": "2A",
-        "class code": "B",
-        "time": "15:30-16:30"
+        "ClassID": "BL202231000692",
+        "Course Code": "MCA1003",
+        "Course Title": "Data Structures and Algorithm",
+        "Slot": "F11 + F12 + F13",
+        "Faculty Name": "MNO",
+        "Room Id": "S203",
+        "Seat": "SB",
+        "date": "2-12-2022",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL202231000755",
+        "Course Code": "ENG5001",
+        "Course Title": "Introduction to Communication Skills",
+        "Slot": "D22",
+        "Faculty Name": "XYZ",
+        "Room Id": "S101",
+        "Seat": "A1",
+        "date": "3-12-2022",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL202231000756",
+        "Course Code": "ENG5001",
+        "Course Title": "Introduction to Communication Skills",
+        "Slot": "D23",
+        "Faculty Name": "XYZ",
+        "Room Id": "S102",
+        "Seat": "A2",
+        "date": "3-12-2022",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL202231000757",
+        "Course Code": "ENG5001",
+        "Course Title": "Introduction to Communication Skills",
+        "Slot": "D24",
+        "Faculty Name": "XYZ",
+        "Room Id": "S103",
+        "Seat": "A3",
+        "date": "3-12-2022",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL202231000790",
+        "Course Code": "MCA1004",
+        "Course Title": "Advance Operating System",
+        "Slot": "D21 + D22",
+        "Faculty Name": "XYZ",
+        "Room Id": "S104",
+        "Seat": "SA",
+        "date": "4-12-2022",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL202231000791",
+        "Course Code": "MCA1004",
+        "Course Title": "Advance Operating System",
+        "Slot": "F21 + F22",
+        "Faculty Name": "XYZ",
+        "Room Id": "S105",
+        "Seat": "SB",
+        "date": "4-12-2022",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL202231000792",
+        "Course Code": "MCA1004",
+        "Course Title": "Advance Operating System",
+        "Slot": "E21 + E22",
+        "Faculty Name": "XYZ",
+        "Room Id": "S106",
+        "Seat": "SD",
+        "date": "4-12-2022",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL2022310007811",
+        "Course Code": "MAT4001",
+        "Course Title": "Applied Mathematics and Statistical Method",
+        "Slot": "A21 + A22 + A23",
+        "Faculty Name": "XYZ",
+        "Room Id": "S201",
+        "Seat": "SD",
+        "date": "5-12-2022",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL2022310007812",
+        "Course Code": "MAT4001",
+        "Course Title": "Applied Mathematics and Statistical Method",
+        "Slot": "B21 + B22 + B23",
+        "Faculty Name": "XYZ",
+        "Room Id": "S202",
+        "Seat": "SE",
+        "date": "5-12-2022",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL2022310007813",
+        "Course Code": "MAT4001",
+        "Course Title": "Applied Mathematics and Statistical Method",
+        "Slot": "C21 + C22 + C23",
+        "Faculty Name": "XYZ",
+        "Room Id": "S201",
+        "Seat": "SD",
+        "date": "5-12-2022",
+        "time": "9:15 AM - 12:15 AM"
+      }
+          ],
+          "Winter":[
+            {
+        "ClassID": "BL202231000110",
+        "Course Code": "MCA1011",
+        "Course Title": "Competitive Programming",
+        "Slot": "A11 + A12 + A13",
+        "Faculty Name": "ABC",
+        "Room Id": "S101",
+        "Seat": "SA",
+        "Date": "1-05-2023",
+        "Time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL202231000111",
+        "Course Code": "MCA1011",
+        "Course Title": "Competitive Programming",
+        "Slot": "B11 + B12 + B13",
+        "Faculty Name": "ABC",
+        "Room Id": "S102",
+        "Seat": "SA",
+        "date": "1-05-2023",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL202231000112",
+        "Course Code": "MCA1011",
+        "Course Title": "Competitive Programming",
+        "Slot": "C11 + C12 + C13",
+        "Faculty Name": "DEF",
+        "Room Id": "S103",
+        "Seat": "SA",
+        "date": "1-05-2023",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL202231000221",
+        "Course Code": "MCA1012",
+        "Course Title": "Computer Networking",
+        "Slot": "D11 + D12 + D13",
+        "Faculty Name": "XYZ",
+        "Room Id": "S201",
+        "Seat": "SB",
+        "date": "2-05-2023",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL202231000222",
+        "Course Code": "MCA1012",
+        "Course Title": "Computer Networking",
+        "Slot": "E11 + E12 + E13",
+        "Faculty Name": "XYZ",
+        "Room Id": "S202",
+        "Seat": "SB",
+        "date": "2-05-2023",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL202231000223",
+        "Course Code": "MCA1012",
+        "Course Title": "Computer Networking",
+        "Slot": "F11 + F12 + F13",
+        "Faculty Name": "MNO",
+        "Room Id": "S203",
+        "Seat": "SB",
+        "date": "2-05-2023",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL202231000350",
+        "Course Code": "ENG3002",
+        "Course Title": "Professional and Business Communication",
+        "Slot": "D22",
+        "Faculty Name": "XYZ",
+        "Room Id": "S101",
+        "Seat": "A1",
+        "date": "3-05-2023",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL202231000351",
+        "Course Code": "ENG3002",
+        "Course Title": "Professional and Business Communication",
+        "Slot": "D23",
+        "Faculty Name": "XYZ",
+        "Room Id": "S102",
+        "Seat": "A2",
+        "date": "3-05-2023",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL202231000352",
+        "Course Code": "ENG3002",
+        "Course Title": "Professional and Business Communication",
+        "Slot": "D24",
+        "Faculty Name": "XYZ",
+        "Room Id": "S103",
+        "Seat": "A3",
+        "date": "3-05-2023",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL202231000601",
+        "Course Code": "MCA1014",
+        "Course Title": "Web Development",
+        "Slot": "D21 + D22",
+        "Faculty Name": "XYZ",
+        "Room Id": "S104",
+        "Seat": "SA",
+        "date": "4-05-2023",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL202231000602",
+        "Course Code": "MCA1014",
+        "Course Title": "Web Development",
+        "Slot": "F21 + F22",
+        "Faculty Name": "XYZ",
+        "Room Id": "S105",
+        "Seat": "SB",
+        "date": "4-05-2023",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL202231000603",
+        "Course Code": "MCA1014",
+        "Course Title": "Web Development",
+        "Slot": "E21 + E22",
+        "Faculty Name": "XYZ",
+        "Room Id": "S106",
+        "Seat": "SD",
+        "date": "4-05-2023",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL2022310007505",
+        "Course Code": "MCA1011",
+        "Course Title": "Data Mining",
+        "Slot": "A21 + A22 + A23",
+        "Faculty Name": "XYZ",
+        "Room Id": "S201",
+        "Seat": "SD",
+        "date": "5-05-2023",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL2022310007506",
+        "Course Code": "MCA1011",
+        "Course Title": "Data Mining",
+        "Slot": "B21 + B22 + B23",
+        "Faculty Name": "XYZ",
+        "Room Id": "S202",
+        "Seat": "SE",
+        "date": "5-05-2023",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL2022310007507",
+        "Course Code": "MCA1011",
+        "Course Title": "Data Mining",
+        "Slot": "C21 + C22 + C23",
+        "Faculty Name": "XYZ",
+        "Room Id": "S201",
+        "Seat": "SD",
+        "date": "5-05-2023",
+        "time": "9:15 AM - 12:15 AM"
+      }
+            ]
       }
     ],
-    "mba": [
+    "BTech - Computer Science and Engineering": [
       {
-        "date": "26-04-2023",
-        "subject": "Principals Of Management",
-        "day": "wednesday",
-        "slot": "1A",
-        "class code": "B",
-        "time": "13:30-14:30"
+        "Fall": [
+          {
+        "ClassID": "BL202231000820",
+        "Course Code": "CSE2002",
+        "Course Title": "Data Structures and Algorithms",
+        "Slot": "A11 + A12 + A13",
+        "Faculty Name": "ABC",
+        "Room Id": "Z101",
+        "Seat": "ZA",
+        "Date": "1-12-2022",
+        "Time": "9:15 AM - 12:15 AM"
       },
       {
-        "date": "26-04-2023",
-        "subject": "Principals Of Management",
-        "day": "wednesday",
-        "slot": "2A",
-        "class code": "A",
-        "time": "16:30-17:30"
+        "ClassID": "BL202231000821",
+        "Course Code": "CSE2002",
+        "Course Title": "Data Structures and Algorithms",
+        "Slot": "B11 + B12 + B13",
+        "Faculty Name": "ABC",
+        "Room Id": "Z102",
+        "Seat": "ZB",
+        "date": "1-12-2022",
+        "time": "9:15 AM - 12:15 AM"
       },
       {
-        "date": "27-04-2023",
-        "subject": "Principals Of Statistics",
-        "day": "Thusday",
-        "slot": "1A",
-        "class code": "A",
-        "time": "13:30-14:30"
+        "ClassID": "BL202231000822",
+        "Course Code": "CSE2002",
+        "Course Title": "Data Structures and Algorithms",
+        "Slot": "C11 + C12 + C13",
+        "Faculty Name": "DEF",
+        "Room Id": "Z103",
+        "Seat": "ZC",
+        "date": "1-12-2022",
+        "time": "9:15 AM - 12:15 AM"
       },
       {
-        "date": "27-04-2023",
-        "subject": "Principals Of Statistics",
-        "day": "Thusday",
-        "slot": "2A",
-        "class code": "B",
-        "time": "16:30-17:30"
+        "ClassID": "BL202231000690",
+        "Course Code": "CSE3006",
+        "Course Title": "Computer Networks",
+        "Slot": "D11 + D12 + D13",
+        "Faculty Name": "XYZ",
+        "Room Id": "Z201",
+        "Seat": "ZD",
+        "date": "2-12-2022",
+        "time": "9:15 AM - 12:15 AM"
       },
       {
-        "date": "28-04-2023",
-        "subject": "Business Management",
-        "day": "Friday",
-        "slot": "1A",
-        "class code": "A",
-        "time": "13:30-14:30"
+        "ClassID": "BL202231000691",
+        "Course Code": "CSE3006",
+        "Course Title": "Computer Networks",
+        "Slot": "E11 + E12 + E13",
+        "Faculty Name": "XYZ",
+        "Room Id": "Z202",
+        "Seat": "ZE",
+        "date": "2-12-2022",
+        "time": "9:15 AM - 12:15 AM"
       },
       {
-        "date": "28-04-2023",
-        "subject": "Business Management",
-        "day": "Friday",
-        "slot": "2A",
-        "class code": "B",
-        "time": "16:30-17:30"
+        "ClassID": "BL202231000692",
+        "Course Code": "CSE3006",
+        "Course Title": "Computer Networks",
+        "Slot": "F11 + F12 + F13",
+        "Faculty Name": "MNO",
+        "Room Id": "Z203",
+        "Seat": "ZF",
+        "date": "2-12-2022",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL202231000755",
+        "Course Code": "MEE1001",
+        "Course Title": "Engineering Graphics",
+        "Slot": "D22",
+        "Faculty Name": "XYZ",
+        "Room Id": "S101",
+        "Seat": "A1",
+        "date": "3-12-2022",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL202231000756",
+        "Course Code": "MEE1001",
+        "Course Title": "Engineering Graphics",
+        "Slot": "D23",
+        "Faculty Name": "XYZ",
+        "Room Id": "S102",
+        "Seat": "A2",
+        "date": "3-12-2022",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL202231000757",
+        "Course Code": "MEE1001",
+        "Course Title": "Engineering Graphics",
+        "Slot": "D24",
+        "Faculty Name": "XYZ",
+        "Room Id": "S103",
+        "Seat": "A3",
+        "date": "3-12-2022",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL202231000790",
+        "Course Code": "CSE3002",
+        "Course Title": "Programming in Java",
+        "Slot": "D21 + D22",
+        "Faculty Name": "XYZ",
+        "Room Id": "S104",
+        "Seat": "SA",
+        "date": "4-12-2022",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL202231000791",
+        "Course Code": "CSE3002",
+        "Course Title": "Programming in Java",
+        "Slot": "F21 + F22",
+        "Faculty Name": "XYZ",
+        "Room Id": "S105",
+        "Seat": "SB",
+        "date": "4-12-2022",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL202231000792",
+        "Course Code": "CSE3002",
+        "Course Title": "Programming in Java",
+        "Slot": "E21 + E22",
+        "Faculty Name": "XYZ",
+        "Room Id": "S106",
+        "Seat": "SD",
+        "date": "4-12-2022",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL2022310007811",
+        "Course Code": "CSE3005",
+        "Course Title": "Software Engineering",
+        "Slot": "A21 + A22 + A23",
+        "Faculty Name": "XYZ",
+        "Room Id": "S201",
+        "Seat": "SD",
+        "date": "5-12-2022",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL2022310007812",
+        "Course Code": "CSE3005",
+        "Course Title": "Software Engineering",
+        "Slot": "B21 + B22 + B23",
+        "Faculty Name": "XYZ",
+        "Room Id": "S202",
+        "Seat": "SE",
+        "date": "5-12-2022",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL2022310007813",
+        "Course Code": "CSE3005",
+        "Course Title": "Software Engineering",
+        "Slot": "C21 + C22 + C23",
+        "Faculty Name": "XYZ",
+        "Room Id": "S201",
+        "Seat": "SD",
+        "date": "5-12-2022",
+        "time": "9:15 AM - 12:15 AM"
       }
-    ],
-    "bca": [
-      {
-        "date": "26-04-2023",
-        "subject": "Introduction To Java",
-        "day": "wednesday",
-        "slot": "1A",
-        "class code": "B",
-        "time": "14:30-15:30"
+          ],
+          "Winter":[
+            {
+        "ClassID": "BL202231000110",
+        "Course Code": "CSE4003",
+        "Course Title": "Big Data Analytics",
+        "Slot": "A11 + A12 + A13",
+        "Faculty Name": "ABC",
+        "Room Id": "S101",
+        "Seat": "SA",
+        "Date": "1-05-2023",
+        "Time": "9:15 AM - 12:15 AM"
       },
       {
-        "date": "26-04-2023",
-        "subject": "Introduction To Java",
-        "day": "wednesday",
-        "slot": "2A",
-        "class code": "A",
-        "time": "17:30-18:30"
+        "ClassID": "BL202231000111",
+        "Course Code": "CSE4003",
+        "Course Title": "Big Data Analytics",
+        "Slot": "B11 + B12 + B13",
+        "Faculty Name": "ABC",
+        "Room Id": "S102",
+        "Seat": "SA",
+        "date": "1-05-2023",
+        "time": "9:15 AM - 12:15 AM"
       },
       {
-        "date": "27-04-2023",
-        "subject": "Introduction To Web Technologies",
-        "day": "Thusday",
-        "slot": "1A",
-        "class code": "A",
-        "time": "14:30-15:30"
+        "ClassID": "BL202231000112",
+        "Course Code": "CSE4003",
+        "Course Title": "Big Data Analytics",
+        "Slot": "C11 + C12 + C13",
+        "Faculty Name": "DEF",
+        "Room Id": "S103",
+        "Seat": "SA",
+        "date": "1-05-2023",
+        "time": "9:15 AM - 12:15 AM"
       },
       {
-        "date": "27-04-2023",
-        "subject": "Introduction To Web Technologies",
-        "day": "Thusday",
-        "slot": "2A",
-        "class code": "B",
-        "time": "17:30-18:30"
+        "ClassID": "BL202231000221",
+        "Course Code": "CSE3007",
+        "Course Title": "Artificial Intelligence",
+        "Slot": "D11 + D12 + D13",
+        "Faculty Name": "XYZ",
+        "Room Id": "S201",
+        "Seat": "SB",
+        "date": "2-05-2023",
+        "time": "9:15 AM - 12:15 AM"
       },
       {
-        "date": "28-04-2023",
-        "subject": "Computational Thinking",
-        "day": "Friday",
-        "slot": "1A",
-        "class code": "A",
-        "time": "14:30-15:30"
+        "ClassID": "BL202231000222",
+        "Course Code": "CSE3007",
+        "Course Title": "Artificial Intelligence",
+        "Slot": "E11 + E12 + E13",
+        "Faculty Name": "XYZ",
+        "Room Id": "S202",
+        "Seat": "SB",
+        "date": "2-05-2023",
+        "time": "9:15 AM - 12:15 AM"
       },
       {
-        "date": "28-04-2023",
-        "subject": "Computational Thinking",
-        "day": "Friday",
-        "slot": "2A",
-        "class code": "B",
-        "time": "17:30-18:30"
+        "ClassID": "BL202231000223",
+        "Course Code": "CSE3007",
+        "Course Title": "Artificial Intelligence",
+        "Slot": "F11 + F12 + F13",
+        "Faculty Name": "MNO",
+        "Room Id": "S203",
+        "Seat": "SB",
+        "date": "2-05-2023",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL202231000350",
+        "Course Code": "CSE1011",
+        "Course Title": "CyberSecurity",
+        "Slot": "D22",
+        "Faculty Name": "XYZ",
+        "Room Id": "S101",
+        "Seat": "A1",
+        "date": "3-05-2023",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL202231000351",
+        "Course Code": "CSE1011",
+        "Course Title": "CyberSecurity",
+        "Slot": "D23",
+        "Faculty Name": "XYZ",
+        "Room Id": "S102",
+        "Seat": "A2",
+        "date": "3-05-2023",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL202231000352",
+        "Course Code": "CSE1011",
+        "Course Title": "CyberSecurity",
+        "Slot": "D24",
+        "Faculty Name": "XYZ",
+        "Room Id": "S103",
+        "Seat": "A3",
+        "date": "3-05-2023",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL202231000601",
+        "Course Code": "CSE1012",
+        "Course Title": "Cloud Computing",
+        "Slot": "D21 + D22",
+        "Faculty Name": "XYZ",
+        "Room Id": "S104",
+        "Seat": "SA",
+        "date": "4-05-2023",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL202231000602",
+        "Course Code": "CSE1012",
+        "Course Title": "Cloud Computing",
+        "Slot": "F21 + F22",
+        "Faculty Name": "XYZ",
+        "Room Id": "S105",
+        "Seat": "SB",
+        "date": "4-05-2023",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL202231000603",
+        "Course Code": "CSE1012",
+        "Course Title": "Cloud Computing",
+        "Slot": "E21 + E22",
+        "Faculty Name": "XYZ",
+        "Room Id": "S106",
+        "Seat": "SD",
+        "date": "4-05-2023",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL2022310007505",
+        "Course Code": "CSE3012",
+        "Course Title": "Network Security",
+        "Slot": "A21 + A22 + A23",
+        "Faculty Name": "XYZ",
+        "Room Id": "S201",
+        "Seat": "SD",
+        "date": "5-05-2023",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL2022310007506",
+        "Course Code": "CSE3012",
+        "Course Title": "Network Security",
+        "Slot": "B21 + B22 + B23",
+        "Faculty Name": "XYZ",
+        "Room Id": "S202",
+        "Seat": "SE",
+        "date": "5-05-2023",
+        "time": "9:15 AM - 12:15 AM"
+      },
+      {
+        "ClassID": "BL2022310007507",
+        "Course Code": "CSE3012",
+        "Course Title": "Network Security",
+        "Slot": "C21 + C22 + C23",
+        "Faculty Name": "XYZ",
+        "Room Id": "S201",
+        "Seat": "SD",
+        "date": "5-05-2023",
+        "time": "9:15 AM - 12:15 AM"
       }
-    ],
-    "bba": [
-      {
-        "date": "26-04-2023",
-        "subject": "Introduction To Management",
-        "day": "wednesday",
-        "slot": "1A",
-        "class code": "B",
-        "time": "8:30-9:30"
-      },
-      {
-        "date": "26-04-2023",
-        "subject": "Introduction To Java",
-        "day": "wednesday",
-        "slot": "2A",
-        "class code": "A",
-        "time": "11:30-12:30"
-      },
-      {
-        "date": "27-04-2023",
-        "subject": "Introduction To Web Technologies",
-        "day": "Thusday",
-        "slot": "1A",
-        "class code": "A",
-        "time": "8:30-9:30"
-      },
-      {
-        "date": "27-04-2023",
-        "subject": "Introduction To Web Technologies",
-        "day": "Thusday",
-        "slot": "2A",
-        "class code": "B",
-        "time": "17:30-18:30"
-      },
-      {
-        "date": "28-04-2023",
-        "subject": "Computational Thinking",
-        "day": "Friday",
-        "slot": "1A",
-        "class code": "A",
-        "time": "8:30-9:30"
-      },
-      {
-        "date": "28-04-2023",
-        "subject": "Computational Thinking",
-        "day": "Friday",
-        "slot": "2A",
-        "class code": "B",
-        "time": "17:30-18:30"
+            ]
       }
-    ],
-    "btech": [
-      {
-        "date": "26-04-2023",
-        "subject": "Logic Gates",
-        "day": "wednesday",
-        "slot": "1A",
-        "class code": "3B",
-        "time": "9:30-10:30"
-      },
-      {
-        "date": "26-04-2023",
-        "subject": "Logic Gates",
-        "day": "wednesday",
-        "slot": "2A",
-        "class code": "3A",
-        "time": "12:30-13:30"
-      },
-      {
-        "date": "27-04-2023",
-        "subject": "Statistical Analysis",
-        "day": "Thusday",
-        "slot": "1A",
-        "class code": "3A",
-        "time": "9:30-10:30"
-      },
-      {
-        "date": "27-04-2023",
-        "subject": "Statistical Analysis",
-        "day": "Thusday",
-        "slot": "2A",
-        "class code": "3B",
-        "time": "17:30-18:30"
-      },
-      {
-        "date": "28-04-2023",
-        "subject": "Computational Thinking",
-        "day": "Friday",
-        "slot": "1A",
-        "class code": "3A",
-        "time": "9:30-10:30"
-      },
-      {
-        "date": "28-04-2023",
-        "subject": "Computational Thinking",
-        "day": "Friday",
-        "slot": "2A",
-        "class code": "3B",
-        "time": "17:30-18:30"
-      }
-    ],
-    "mtech": {},
-    "btech-int": {}
+    ]
   }
 }
